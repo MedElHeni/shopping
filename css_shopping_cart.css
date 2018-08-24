@@ -1,0 +1,32 @@
+.body{
+	background-color: #D7FECD;
+}
+img{
+	width: 100px;
+	height: 100px;
+}
+.products{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	border: 5px #B6FBA6    solid;
+	margin-bottom: 5px;
+	padding-top: 2%;
+	background-color: #D7FECD;
+	border-radius: 20px;
+	
+}
+.main{
+	margin: 2% 20%;
+	background-color: #7AD863;
+	padding: 2%;
+	border-radius: 8px;
+
+}
+p{  
+	text-align: center;
+	font-size: 1.1em;
+}
+.title-total-price{
+	margin: 0px 0px 40px 50px;
+}
